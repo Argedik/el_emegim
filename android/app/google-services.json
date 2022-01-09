@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902311000917",
+    "project_id": "argedik-el-emegim",
+    "storage_bucket": "argedik-el-emegim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902311000917:android:4d7864b73bfa0b59690ddc",
+        "android_client_info": {
+          "package_name": "com.argedik.el_emegim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902311000917-c2bb6t8bic4kbfbqvp90n66qcs9gf3mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argedik.el_emegim",
+            "certificate_hash": "1cdf95642dedc24f8c29d6814af3196cbfda105b"
+          }
+        },
+        {
+          "client_id": "902311000917-rapjc0o5vrc0erkjaftmfn3hn6u6irhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD75QGbT5nJsb-ziy0WbrsbU9xpA02PBj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902311000917-rapjc0o5vrc0erkjaftmfn3hn6u6irhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
